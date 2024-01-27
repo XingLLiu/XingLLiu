@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XingLLiu
-- 👀 I’m interested in Computational Statistics, Stein's Method and Bayesian Inference.
 - 🌱 I’m currently pursuing a PhD in Statistics at Imperial College London. I'm a student in the [StatML CDT programme](https://statml.io/).
+- 👀 I’m interested in Computational Statistics, Stein's Method and Bayesian Inference.
 - 📫 Checkout my [website](https://xinglliu.github.io/) if you want to reach me!
 
 <!---
